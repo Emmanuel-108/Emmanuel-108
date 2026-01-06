@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi! I’m Emanuel 👋
 
+I’m a Full-Stack Engineer with a background in Business Informatics and over 5 years of combined professional experience in Web Development, Quality Assurance Testing, and Business Intelligence 🚀
+
+In my professional roles, I have developed Websites, created Dashboards for Data Analytics, managed Databases, and carried out Quality Assurance Testing projects.
+
+Looking forward to connecting and collaborating on exciting projects 😎
 <!--
 **Emmanuel-108/Emmanuel-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
